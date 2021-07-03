@@ -7,10 +7,6 @@
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 </head>
 <body>
-	<!-- loader -->
-	<div class="bg-loader">
-		<div class="loader"></div>
-	</div>
 
 	<!-- header -->
 	<header>
@@ -254,11 +250,5 @@ footer {
 		</div>
 	</footer>
 
-
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$(".bg-loader").hide();
-		})
-	</script>
 </body>
 </html>
